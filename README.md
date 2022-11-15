@@ -1,5 +1,6 @@
-# Tag-Version v1
+# Tag-Version v1.1
 Provides automated versioning of your commits using git tags each time your CI/CD workflow runs.
+This fork follows the new Git/Github guidelines and will use the brach 'main'.
 ## Features
 * Generate a new revision based on the last version released and the branch currently checked out
 * Create a new tag for this revision
