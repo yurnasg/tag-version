@@ -5,9 +5,9 @@ branding:
   color: 'purple'
 inputs:
   production-branch:
-    description: 'The branch to use for stable releases in production. Default is master'
+    description: 'The branch to use for stable releases in production. Default is main'
     required: false
-    default: master
+    default: main
   test-branch:
     description: 'The branch to use for test deployments. Default is test'
     required: false
